@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "target": "ESNext",
+    "baseUrl": ".",
+    "module": "Node16",
+    "noEmit": true
+  }
+}
